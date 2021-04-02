@@ -1,2 +1,1 @@
-# hello-world
-COGS 108 git introduction repo
+NL West Pennant runs through LA
